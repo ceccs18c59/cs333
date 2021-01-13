@@ -1,2 +1,3 @@
-# cs333
-Application Software Development Lab - CHN18CS118
+# Application Software Development Lab (cs333)
+
+## CHN18CS118
