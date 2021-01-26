@@ -1,3 +1,7 @@
+--Name:    Thejus R
+--KTU Reg: CHN18CS118
+
+
 USE cs333;
 
 -- Creating a table named "student"
