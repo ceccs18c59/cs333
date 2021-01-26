@@ -3,7 +3,6 @@
 --   Class: S5-C
 --   Roll no: 59
 
-
 USE cs333;
 
 -- a) create a table class. Fields are name & id--
