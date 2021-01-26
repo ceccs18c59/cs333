@@ -3,7 +3,7 @@
 --   Class: S5-C
 --   Roll no: 59
 
-use cs333;
+USE cs333;
 
 -- a)
 CREATE TABLE store (
