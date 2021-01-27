@@ -3,6 +3,7 @@
 --   Class: S5-C
 --   Roll no: 59
 
+USE cs333;
 -- #1 Create table employee with fields Code , name , dob , designation , salary.
 CREATE TABLE Employee(
     code VARCHAR(5) PRIMARY KEY,
